@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.server.ResponseStatusException;
 import se.seqarc.samplersequencer.category.CategoryNotFoundException;
-import se.seqarc.samplersequencer.storage.StorageService;
 
 import java.util.ArrayList;
 import java.util.List;
